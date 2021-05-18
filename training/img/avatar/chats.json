@@ -1,0 +1,378 @@
+{
+    "elements": [{
+            "name": "Linda Gahleitner",
+            "img": "https://s3-us-west-2.amazonaws.com/s.cdpn.io/1089577/contact1.jpg",
+            "online": "16:48",
+            "messages": [{
+                    "text": "Hello! What are we going to give our parents for Christmas?",
+                    "name": "Linda Gahleitner",
+                    "time": "16:01",
+                    "type": true
+                },
+                {
+                    "text": "Hello Tanja! Phew, good question, do you have an idea?",
+                    "name": "Linda Gahleitner",
+                    "time": "16:20",
+                    "type": false
+                },
+                {
+                    "text": "No: /",
+                    "name": "Linda Gahleitner",
+                    "time": "16:24",
+                    "type": true
+                },
+                {
+                    "text": "Should we go shopping and buy gifts together this week?",
+                    "name": "Linda Gahleitner",
+                    "time": "16:27",
+                    "type": false
+                },
+                {
+                    "text": "That's a good idea! :)",
+                    "name": "Linda Gahleitner",
+                    "time": "16:31",
+                    "type": true
+                },
+                {
+                    "text": "When are you best?",
+                    "name": "Linda Gahleitner",
+                    "time": "16:40",
+                    "type": false
+                },
+                {
+                    "text": "Tomorrow afternoon? Or what about you?",
+                    "name": "Linda Gahleitner",
+                    "time": "16:43",
+                    "type": true
+                },
+                {
+                    "text": "I'm stupid tomorrow because I still have schoolwork on Wednesday and really still have a lot to learn: /",
+                    "name": "Linda Gahleitner",
+                    "time": "16:44",
+                    "type": false
+                },
+                {
+                    "text": "OK: / How about Wednesday after school work?",
+                    "name": "Linda Gahleitner",
+                    "time": "16:47",
+                    "type": true
+                },
+                {
+                    "text": "Yes, great! Then we'll just meet in Linz right?",
+                    "name": "Linda Gahleitner",
+                    "time": "16:48",
+                    "type": false
+                },
+                {
+                    "text": "Yep, I'll be on the country road at around 3pm :)",
+                    "name": "Linda Gahleitner",
+                    "time": "16:50",
+                    "type": true
+                }
+            ]
+        },
+        {
+            "name": "Mama",
+            "img": "https://s3-us-west-2.amazonaws.com/s.cdpn.io/1089577/contact2.JPG",
+            "online": "17:21",
+            "messages": [{
+                    "text": "Hello! What's going on in Hagenberg?",
+                    "time": "16:45",
+                    "type": false
+                },
+                {
+                    "text": "Hello mom :) As always, a lot of stress with the projects, but otherwise everything is great!",
+                    "time": "16:48",
+                    "type": true
+                },
+                {
+                    "text": "Yes, I know, but only a few more days and then it's Christmas vacation anyway. That just has to hold out.",
+                    "time": "16:55",
+                    "type": false
+                },
+                {
+                    "text": "You're right anyway! But I'm really happy when I come home again!",
+                    "time": "17:01",
+                    "type": true
+                },
+                {
+                    "text": "We're looking forward to everything when you come home: *",
+                    "time": "17:06",
+                    "type": false
+                },
+                {
+                    "text": "Can you pick me up in Linz then?",
+                    "time": "17:15",
+                    "type": true
+                },
+                {
+                    "text": "Sure, just call when you know when you are to be picked up.",
+                    "time": "17:19",
+                    "type": false
+                },
+                {
+                    "text": "Okay, great thanks! See you on Friday :)",
+                    "time": "17:20",
+                    "type": true
+                },
+                {
+                    "text": "Until Friday :)",
+                    "time": "17:21",
+                    "type": false
+                }
+            ]
+        },
+        {
+            "name": "Papa",
+            "img": "https://s3-us-west-2.amazonaws.com/s.cdpn.io/1089577/contact3.jpg",
+            "online": "17:31",
+            "messages": [{
+                    "text": "Hello dad, can you give me a hand?",
+                    "time": "16:54",
+                    "type": true
+                },
+                {
+                    "text": "With what?",
+                    "time": "16:16",
+                    "type": false
+                },
+                {
+                    "text": "I have a few questions about a homework ..",
+                    "time": "17:18",
+                    "type": true
+                },
+                {
+                    "text": "Can I give you a short call? Then I can explain more to you.",
+                    "time": "17:18",
+                    "type": true
+                },
+                {
+                    "text": "Phew, I'm still at work at the moment.",
+                    "time": "17:18",
+                    "type": false
+                },
+                {
+                    "text": "When are you doing then?",
+                    "time": "17:19",
+                    "type": true
+                },
+                {
+                    "text": "Can't say exactly yet. I'm still with a customer and then I have to go home.",
+                    "time": "17:25",
+                    "type": false
+                },
+                {
+                    "text": "Okay! Otherwise you just report when you are at home?",
+                    "time": "17:28",
+                    "type": true
+                },
+                {
+                    "text": "Yes we can do it like that.",
+                    "time": "17:30",
+                    "type": false
+                },
+                {
+                    "text": "Great, thank you!",
+                    "time": "17:30",
+                    "type": true
+                },
+                {
+                    "text": "No problem;)",
+                    "time": "17:31",
+                    "type": false
+                }
+            ]
+        },
+        {
+            "name": "Marina PÃ¼hringer",
+            "img": "https://s3-us-west-2.amazonaws.com/s.cdpn.io/1089577/contact4.jpg",
+            "online": "17:40",
+            "messages": [{
+                    "text": "Haee! Are we going out on the weekend?",
+                    "time": "17:24",
+                    "type": false
+                },
+                {
+                    "text": "Yes, I would be there!",
+                    "time": "17:38",
+                    "type": true
+                },
+                {
+                    "text": "Shall we write to each other tomorrow? Have the stress right now.: /",
+                    "time": "17:40",
+                    "type": false
+                },
+                {
+                    "text": "Yes of course!",
+                    "time": "17:41",
+                    "type": true
+                }
+            ]
+        },
+        {
+            "name": "Nicole Rammelmüller",
+            "img": "https://s3-us-west-2.amazonaws.com/s.cdpn.io/1089577/contact5.jpg",
+            "online": "last online 10:01",
+            "messages": [{
+                    "text": "Haee! Are we going out on the weekend?",
+                    "time": "17:24",
+                    "type": false
+                },
+                {
+                    "text": "Yes, I would be there!",
+                    "time": "17:38",
+                    "type": true
+                },
+                {
+                    "text": "Shall we write to each other tomorrow? Have the stress right now.: /",
+                    "time": "17:40",
+                    "type": false
+                },
+                {
+                    "text": "Yes of course!",
+                    "time": "17:41",
+                    "type": true
+                }
+            ]
+        },
+        {
+            "name": "Family",
+            "img": "https://s3-us-west-2.amazonaws.com/s.cdpn.io/1089577/contact6.JPG",
+            "members": [{
+                    "contact": "0"
+                },
+                {
+                    "contact": "1"
+                },
+                {
+                    "contact": "2"
+                }
+            ],
+            "messages": [{
+                    "text": "Hello!",
+                    "name": "Tanja Lehner",
+                    "time": "17:30",
+                    "type": true
+                },
+                {
+                    "text": "Hello! Are you all right?",
+                    "name": "Mama",
+                    "time": "17:32",
+                    "type": false
+                },
+                {
+                    "text": "Yes anyway !!",
+                    "name": "Tanja Lehner",
+                    "time": "17:33",
+                    "type": true
+                },
+                {
+                    "text": "Did you cook something, mom?",
+                    "name": "Linda Gahleitner",
+                    "time": "17:32",
+                    "type": false
+                },
+                {
+
+                    "text": "No, I'm still working.",
+                    "name": "Mama",
+                    "time": "17:33",
+                    "type": false
+                },
+                {
+                    "text": "Hmm, what a shame! When are you coming home, papa?",
+                    "name": "Linda Gahleitner",
+                    "time": "17:35",
+                    "type": false
+                },
+                {
+                    "text": "I guess at 7 o'clock, but I'll get back to you!",
+                    "name": "Papa",
+                    "time": "17:44",
+                    "type": false
+                }
+            ]
+        },
+        {
+            "name": "Cool Kids",
+            "img": "https://s3-us-west-2.amazonaws.com/s.cdpn.io/1089577/contact7.JPG",
+            "members": [{
+                    "contact": "3"
+                },
+                {
+                    "contact": "4"
+                },
+                {
+                    "contact": "0"
+                }
+            ],
+            "messages": [{
+                    "text": "Hello! How are you?",
+                    "name": "Linda Gahleitner",
+                    "time": "17:40",
+                    "type": false
+                },
+                {
+                    "text": "Hello! Great and you?",
+                    "name": "Marina PÃ¼hringer",
+                    "time": "17:41",
+                    "type": false
+                },
+                {
+                    "text": "I'm fine too! When are we going to do something again?",
+                    "name": "Nicole Rammelmüller",
+                    "time": "17:43",
+                    "type": false
+                },
+                {
+                    "text": "Will you come by for a coffee tomorrow?",
+                    "name": "Linda Gahleitner",
+                    "time": "17:44",
+                    "type": false
+                },
+                {
+                    "text": "Coffee sounds great! :)",
+                    "name": "Nicole Rammelmüller",
+                    "time": "17:47",
+                    "type": false
+                },
+                {
+                    "text": "Hello :) I'm fine too. Unfortunately, I can't drink coffee tomorrow because I'll be in Hagenberg until Friday :(",
+                    "name": "Tanja Lehner",
+                    "time": "17:48",
+                    "type": true
+                },
+                {
+                    "text": "Maah, it's a shame, Tanja! I'll come over! :)",
+                    "name": "Marina PÃ¼hringer",
+                    "time": "17:50",
+                    "type": false
+                },
+                {
+                    "text": "Yes, but you can do something on Friday !!",
+                    "name": "Tanja Lehner",
+                    "time": "17:53",
+                    "type": true
+                },
+                {
+                    "text": "Great, I'll be home from 3:30 pm, then I can come at any time :)",
+                    "name": "Linda Gahleitner",
+                    "time": "17:53",
+                    "type": false
+                },
+                {
+                    "text": "I can take a few cookies with me. Mom and I baked a little yesterday :)",
+                    "name": "Marina PÃ¼hringer",
+                    "time": "17:54",
+                    "type": false
+                },
+                {
+                    "text": "Mmh, delicious :) I'm happy!",
+                    "name": "Nicole Rammelmüller",
+                    "time": "17:54",
+                    "type": false
+                }
+            ]
+        }
+    ]
+}
